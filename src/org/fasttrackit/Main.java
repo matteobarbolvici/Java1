@@ -18,7 +18,6 @@ public class Main {
 
         int result = myByte + 2;
         int suma = 2 + 2;
-        System.out.println("suma is: " + (67246 + 27352));
         System.out.println(2 * 5);
         double rest = 10 % 3;
         System.out.println("the remainder is " + rest);
