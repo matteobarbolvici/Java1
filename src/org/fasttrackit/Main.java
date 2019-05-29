@@ -6,7 +6,8 @@ public class Main {
         // write your code here
 
         System.out.println(2);
-        System.out.println("Hello Matteo");
+        System.out.println("Hello");
+        System.out.println("Matteo");
 
         char myChar = 'a';
         byte myByte = 123;
@@ -25,5 +26,11 @@ public class Main {
         System.out.println("Result for 4.B is " + (55 + 9) % 9);
         System.out.println("Result for 4.C is " + (20 + -3 * 5 / 8));
         System.out.println("Result for 4.D is " + (5 + 15 / 3 * 2 - 8 % 3));
+
+
+
+
+
+
     }
 }
