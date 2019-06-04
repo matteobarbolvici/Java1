@@ -7,6 +7,5 @@ public class AnimalRescue{
 
         System.out.println(Johnny.breed );
         Johnny.drink();
-
     }
 }
