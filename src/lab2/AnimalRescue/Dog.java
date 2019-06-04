@@ -25,7 +25,6 @@ public class Dog {
     public void doctor(){
         System.out.println("Doctor");
     }
-
         }
 
 
