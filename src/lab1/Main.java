@@ -1,4 +1,4 @@
-package org.fasttrackit;
+package lab1;
 
 public class Main {
 
@@ -26,11 +26,6 @@ public class Main {
         System.out.println("Result for 4.B is " + (55 + 9) % 9);
         System.out.println("Result for 4.C is " + (20 + -3 * 5 / 8));
         System.out.println("Result for 4.D is " + (5 + 15 / 3 * 2 - 8 % 3));
-
-
-
-
-
 
     }
 }
