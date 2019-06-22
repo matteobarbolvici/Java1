@@ -68,6 +68,61 @@ public class LogicalOp {
         }
     }
 
+    public void numberParameters(int numbers){
+        while (numbers<100){
+            numbers++;
+            System.out.println(numbers);
+        }
+
+    }
+
+    public void negaiveNumberParameter(int numbers){
+        while (numbers>-100){
+            numbers--;
+            System.out.println(numbers);
+        }
+
+    }
+    public void printFromXToY(int x, int y){
+        while (x<y){
+            x++;
+            System.out.println(x);
+        }
+    }
+
+    public void biggestNumber(int x, int y){
+        if (x > y) {
+            while (x > y) {
+                y++;
+                System.out.println(y);
+            }
+        }
+        else if(x < y){
+            while (x < y) {
+                x++;
+                System.out.println(x);
+            }
+        }
+    }
+    public void oneToHundredEven() {
+        int number = 0;
+        while (number <= 100){
+            number++;
+            if (number % 2 == 0)
+
+                System.out.println(number);
+        }
+    }
+
+    public void oneToHundredOdd() {
+        int number = 0;
+        while (number < 100){
+            number++;
+            if (!(number % 2 == 0))
+
+                System.out.println(number);
+        }
+    }
 
 
 

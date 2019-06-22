@@ -19,7 +19,19 @@ public class Main {
 
         //op.addNumbers(5);
 
-        op.stars();
+        //op.stars();
+
+       // op.numberParameters(2);
+
+        //op.negaiveNumberParameter(5);
+
+       // op.printFromXToY(10,20);
+
+//op.biggestNumber(10, 40);
+
+        //op.oneToHundredEven();
+
+        op.oneToHundredOdd();
     }
 }
 
