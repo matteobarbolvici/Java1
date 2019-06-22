@@ -82,7 +82,8 @@ public class LogicalOp {
         else return 0;
     }
 
+    }
 
-}
+
 
 
