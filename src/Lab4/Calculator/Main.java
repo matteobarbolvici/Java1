@@ -4,16 +4,18 @@ public class Main {
 
     public static void main(String[] args) {
 
-    LogicalOp op=new LogicalOp();
-    //op.numberParameter(0);
 
-    //op.numberParameter1(-4);
+        LogicalOp op=new LogicalOp();
 
-    //op.twoNumbers(2, 90);
+        //op.numberParameter(0);
 
-    //op.twoParameters(1, 12);
+        //op.numberParameter1(-4);
 
-        // op.displayEvenNumbers();
+        //op.twoNumbers(2, 90);
+
+        //op.twoParameters(1, 12);
+
+        //op.displayEvenNumbers();
 
         //op.displayOddNumbers();
 
@@ -21,17 +23,23 @@ public class Main {
 
         //op.stars();
 
-       // op.numberParameters(2);
+        //op.numberParameters(2);
 
-        //op.negaiveNumberParameter(5);
+        //op.negativeNumberParameter(5);
 
-       // op.printFromXToY(10,20);
+        //op.printFromXToY(10,20);
 
-//op.biggestNumber(10, 40);
+        //op.biggestNumber(10, 40);
 
         //op.oneToHundredEven();
 
-        op.oneToHundredOdd();
+        //op.oneToHundredOdd();
+
+        //op.printSumAndAverage();
+
+       // op.printFibonacciNumbers(20);
+
+         op.CozaLozaWoza();
     }
 }
 
