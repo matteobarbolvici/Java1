@@ -133,13 +133,15 @@ public class LogicalOp {
 
     public void printFibonacciNumbers(int n) {
 
-        int f1 = 1, f2 = 1, i;
+        int f1 = 1; int f2 = 1; int i;
 
         if (n < 1)
             return;
 
         for (i = 1; i <= 20; i++) {
             System.out.println(f2 + " ");
+
+
 
         }
     }

@@ -37,9 +37,9 @@ public class Main {
 
         //op.printSumAndAverage();
 
-       // op.printFibonacciNumbers(20);
+        // op.printFibonacciNumbers(20);
 
-         op.CozaLozaWoza();
+        //op.CozaLozaWoza();
     }
 }
 
