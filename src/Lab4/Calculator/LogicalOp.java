@@ -146,7 +146,7 @@ public class LogicalOp {
         }
     }
 
-    public void CozaLozaWoza(){
+    public void CozaLozaWoza() {
         boolean clwFlag;
         for (int i = 1; i <= 110; i++) {
             clwFlag = false;
@@ -162,7 +162,7 @@ public class LogicalOp {
                 System.out.print("Woza");
                 clwFlag = true;
             }
-            if ( ! clwFlag) {
+            if (!clwFlag) {
                 System.out.print(i);
             }
             System.out.print(" ");
