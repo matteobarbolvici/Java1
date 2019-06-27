@@ -39,7 +39,7 @@ public class Main {
 
         // op.printFibonacciNumbers(20);
 
-        //op.CozaLozaWoza();
+        op.CozaLozaWoza();
     }
 }
 
